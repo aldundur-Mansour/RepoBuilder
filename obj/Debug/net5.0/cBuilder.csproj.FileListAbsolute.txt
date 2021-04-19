@@ -1,0 +1,16 @@
+C:\Users\lenovo1\Desktop\cBuilder\bin\Debug\net5.0\cBuilder.exe
+C:\Users\lenovo1\Desktop\cBuilder\bin\Debug\net5.0\cBuilder.deps.json
+C:\Users\lenovo1\Desktop\cBuilder\bin\Debug\net5.0\cBuilder.runtimeconfig.json
+C:\Users\lenovo1\Desktop\cBuilder\bin\Debug\net5.0\cBuilder.runtimeconfig.dev.json
+C:\Users\lenovo1\Desktop\cBuilder\bin\Debug\net5.0\cBuilder.dll
+C:\Users\lenovo1\Desktop\cBuilder\bin\Debug\net5.0\ref\cBuilder.dll
+C:\Users\lenovo1\Desktop\cBuilder\bin\Debug\net5.0\cBuilder.pdb
+C:\Users\lenovo1\Desktop\cBuilder\obj\Debug\net5.0\cBuilder.csprojAssemblyReference.cache
+C:\Users\lenovo1\Desktop\cBuilder\obj\Debug\net5.0\cBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo1\Desktop\cBuilder\obj\Debug\net5.0\cBuilder.AssemblyInfoInputs.cache
+C:\Users\lenovo1\Desktop\cBuilder\obj\Debug\net5.0\cBuilder.AssemblyInfo.cs
+C:\Users\lenovo1\Desktop\cBuilder\obj\Debug\net5.0\cBuilder.csproj.CoreCompileInputs.cache
+C:\Users\lenovo1\Desktop\cBuilder\obj\Debug\net5.0\cBuilder.dll
+C:\Users\lenovo1\Desktop\cBuilder\obj\Debug\net5.0\ref\cBuilder.dll
+C:\Users\lenovo1\Desktop\cBuilder\obj\Debug\net5.0\cBuilder.pdb
+C:\Users\lenovo1\Desktop\cBuilder\obj\Debug\net5.0\cBuilder.genruntimeconfig.cache
